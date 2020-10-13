@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafalmcichon" alt="rafalmcichon" /> </p> -->
 
-- 🔭 I’m currently working on on **React**
+- 🔭 I’m currently working on **React**
 - 🌱 I’m currently learning **TypeScript**;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **rafalmcichon@gmail.com**
@@ -136,13 +136,13 @@
 <details>
   <summary>GitHub Stats</summary>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafalmcichon&count_private=true&show_icons=true&hide_border=true" alt="RafalMcichon github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafalmcichon&count_private=true&show_icons=true&hide_border=true" alt="RafalMcichon GitHub Stats" />
 
 </details>
 
 <!-- <details>
-  <summary> Language Stats</summary>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalmcichon&langs_count=8&hide_border=true" alt="RafalMcichon github langs" />
+  <summary>Language Stats</summary>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalmcichon&langs_count=8&hide_border=true" alt="RafalMcichon GitHub Language Stats" />
 
 </details> -->
 <!--
@@ -191,6 +191,7 @@ https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
 https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr
 
 https://github.com/codeSTACKr
+https://rezaduha.com/
 ```
 
 You can create a .github/icons-color/images directory in your repo and add all your assets there.
