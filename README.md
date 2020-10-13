@@ -3,9 +3,12 @@
 #### I'm a Front-end Developer. I have professional experience working with React. I also enjoy wireframing, ui, ux, and design
 <!-- I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL -->
 
-- 🔭 I’m currently working on structured content;
-- 🌱 I’m currently learning TypeScript;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafalmcichon" alt="rafalmcichon" /> </p>
+
+- 🔭 I’m currently working on on **React**
+- 🌱 I’m currently learning **TypeScript**;
 - 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me **rafalmcichon@gmail.com**
 
 ### Skills and Experience
 
@@ -133,14 +136,13 @@
 <details>
   <summary>GitHub Stats</summary>
 
-![RafalMcichon github stats](https://github-readme-stats.vercel.app/api?username=rafalmcichon&count_private=true&show_icons=true&hide_border=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafalmcichon&count_private=true&show_icons=true&hide_border=true" alt="RafalMcichon github stats" />
 
 </details>
 
 <!-- <details>
   <summary> Language Stats</summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalmcichon&langs_count=8&hide_border=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalmcichon&langs_count=8&hide_border=true" alt="RafalMcichon github langs" />
 
 </details> -->
 <!--
@@ -196,4 +198,8 @@ https://raw.githubusercontent.com/{github_user_name}/{repo_name}/{branch}/.githu
 
 stats:
 https://github.com/anuraghazra/github-readme-stats
+
+counter:
+https://rushter.com/blog/github-profile-markdown/
+https://pipedream.com/@tod/github-profile-view-counter-p_G6CNmN/readme
 -->
