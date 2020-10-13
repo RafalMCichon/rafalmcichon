@@ -3,7 +3,7 @@
 #### I'm a Front-end Developer. I have professional experience working with React. I also enjoy wireframing, ui, ux, and design
 <!-- I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafalmcichon" alt="rafalmcichon" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafalmcichon" alt="rafalmcichon" /> </p> -->
 
 - 🔭 I’m currently working on on **React**
 - 🌱 I’m currently learning **TypeScript**;
